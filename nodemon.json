@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGODB_ATLAS_PASS": "etnYOo9IZCOz2uCZ",
+        "JWT_KEY": "secret"    
+    }
+}
